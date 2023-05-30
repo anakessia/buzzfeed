@@ -1,5 +1,5 @@
-# BuzzFeed
-<h2>Desafio do Bootcamp Potência Tech Angular Developer - Powered by iFood</h2>
+# Clone do BuzzFeed
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.3.
 
