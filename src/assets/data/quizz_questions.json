@@ -1,0 +1,41 @@
+{
+  "title":"Qual personagem do Harry Potter você seria: Harry Potter ou Rony Weasley?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Você prefere comer ou jogar quadribol?",
+      "options":[
+        {"id": 1, "name":"Jogar Quadribol", "alias":"A"},
+        {"id": 2, "name":"Comer", "alias":"B"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Seu lugar favorito em Hogwarts?",
+      "options":[
+        {"id": 1, "name":"Salão Principal", "alias":"B"},
+        {"id": 2, "name":"Campo de quadribol", "alias":"A"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Qual sua cor favorita ?",
+      "options":[
+        {"id": 1, "name":"Azul", "alias":"A"},
+        {"id": 2, "name":"Vermelho", "alias":"B"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Qual animal você levaria para Hogwarts",
+      "options":[
+        {"id": 1, "name":"Rato", "alias":"B"},
+        {"id": 2, "name":"Coruja", "alias":"A"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Harry Potter",
+    "B": "Rony Weasley"
+  }
+}
